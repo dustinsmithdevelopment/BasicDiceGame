@@ -1,0 +1,38 @@
+html {
+    background-color: #83E0CC;
+}
+h1 {
+    font-size: 128px;
+    font-family: "Modak", system-ui;
+    font-weight: 400;
+    font-style: normal;
+    color: #8D52DE;
+}
+h2 {
+    font-size: 32px;
+    font-family: "Caveat", cursive;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    color: #DE6052;
+}
+img {
+    margin: 20px;
+    width: 200px;
+    height: 200px;
+}
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.wrapper {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.dice {
+    display: flex;
+    flex-direction: row;
+}
